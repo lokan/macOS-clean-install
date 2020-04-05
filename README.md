@@ -10,7 +10,7 @@ Thanks to [joeyhoer](https://github.com/joeyhoer/starter) who listed (almost) ev
 
 ## Work in progress
 
-**Careful. This is a work in progress. Scripts are not usable yet**
+**Careful. This is a work in progress. Scripts are not usable yet.**<br />
 If your trying to find a ready-to-use solution, you are in the wrong place.
 
 ## How to execute scripts
