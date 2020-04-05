@@ -73,5 +73,5 @@ echo "Derniers nettoyages…"
 brew cleanup
 rm -f -r /Library/Caches/Homebrew/*
 
-echo "ET VOILÀ !"
+echo "AND VOILÀ !"
 echo "Please run app-congig.sh script"
